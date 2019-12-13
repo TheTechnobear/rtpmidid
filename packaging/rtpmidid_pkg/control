@@ -1,0 +1,9 @@
+Package: rtpmidid
+Version: 0.1.0-1
+Section: sound
+Priority: optional
+Architecture: armhf
+Depends: libc6 (>= 2.19), libgcc1 (>= 1:4.9.2-10)
+Maintainer: David Moreno <...>
+Description: RTPMidi daemon
+ See https://github.com/davidmoreno/rtpmidid for more information.
